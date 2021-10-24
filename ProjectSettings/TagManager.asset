@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Portal
+  - ButtonTop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Player
+  - Portal
+  - Bullet
+  - Spring
+  - Deathbox
+  - Mouse
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindLevel
+    uniqueID: 4196535915
+    locked: 0
+  - name: Level
+    uniqueID: 1546827631
+    locked: 0
+  - name: Objects
+    uniqueID: 3303955813
+    locked: 0
+  - name: Portal
+    uniqueID: 1693911127
+    locked: 0
+  - name: Player
+    uniqueID: 2741138619
+    locked: 0
+  - name: Mouse
+    uniqueID: 1745339463
+    locked: 0
